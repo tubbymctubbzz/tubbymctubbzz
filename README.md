@@ -6,7 +6,7 @@ Hey there! I'm **Tubbzz** — a passionate developer, lifelong learner, and all-
 
 ## 🧑‍💻 About Me
 - 🖥️ **Languages**: JavaScript, TypeScript (and always learning more!)
-- 🌐 **Tech Stack**: React, Discord.js
+- 🌐 **Tech Stack**: React, Discord.js (always learning more!)
 - 💡 **Hobbies**: Gaming 🎮, Blogging ✍️, Experimenting with AI 🤖
 - 📫 **Let's Connect**: [Email Me](mailto:notavailable) or reach out on [LinkedIn](#notavailable)
 
@@ -26,8 +26,8 @@ Hey there! I'm **Tubbzz** — a passionate developer, lifelong learner, and all-
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tubbymctubbzz&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubbymctubbzz&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
