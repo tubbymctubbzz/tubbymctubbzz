@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2000&pause=800&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Building+Developer+Tools+That+Matter;⚡+Next.js+%2B+TypeScript+%2B+Modern+Web;🛠️+Creating+Better+Developer+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2000&pause=800&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🚀+Building+Developer+Tools;⚡+Next.js+%2B+TypeScript;🛠️+Better+Developer+Experience)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/🌟_Status-Building_Cool_Stuff-3B82F6?style=for-the-badge&labelColor=000000" />
@@ -196,8 +196,15 @@ const goals2025 = {
 ## 🌐 **Connect With Me**
 
 <div align="center">
+
+### 🚀 **Professional**
+[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-tubbzz.dev-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://tubbzz.dev)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-harvey--tubbzz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harvey-tubbzz)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-@tubbymctubbzz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tubbymctubbzz)
+
 ### 💬 **Community**
 [![GitHub](https://img.shields.io/badge/📂_GitHub-tubbymctubbzz-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tubbymctubbzz)
+[![Email](https://img.shields.io/badge/📧_Email-hello@tubbzz.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@tubbzz.dev)
 
 ### ⚡ **Response Time**
 <img src="https://img.shields.io/badge/⚡_Response_Time-<_24_hours-10B981?style=for-the-badge" />
