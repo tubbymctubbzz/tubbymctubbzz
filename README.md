@@ -193,22 +193,6 @@ const goals2025 = {
 
 ---
 
-## 🌐 **Connect With Me**
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-tubbzz.dev-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://tubbzz.dev)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-harvey--tubbzz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harvey-tubbzz)
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-@tubbymctubbzz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tubbymctubbzz)
-[![GitHub](https://img.shields.io/badge/📂_GitHub-tubbymctubbzz-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tubbymctubbzz)
-
-### ⚡ **Response Time**
-<img src="https://img.shields.io/badge/⚡_Response_Time-<_24_hours-10B981?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🌍_Timezone-GMT+0-F59E0B?style=for-the-badge" />
-
-</div>
-
----
 
 ## 💡 **Fun Facts**
 
